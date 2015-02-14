@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fallback">res/Fallback.png</file>
+        <file alias="birken">res/Birken.jpg</file>
+    </qresource>
+</RCC>
